@@ -4,8 +4,8 @@ import jdk.nashorn.internal.ir.annotations.Ignore;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import sodukovalidator.Main;
-import sodukovalidator.Sudoku;
+import validator.Main;
+import validator.Sudoku;
 
 import java.io.*;
 import java.lang.reflect.Method;
